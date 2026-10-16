@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Papeleria.Datos/Papeleria.Datos.csproj" />
+  <Project Path="Papeleria.Entidades/Papeleria.Entidades.csproj" />
+  <Project Path="Papeleria.Negocio/Papeleria.Negocio.csproj" />
+  <Project Path="Papeleria.Presentacion/Papeleria.Presentacion.csproj" />
+</Solution>
